@@ -1,0 +1,117 @@
+[
+  {
+    "text": "현대차, 전기차 신모델 출시로 테슬라와 본격 경쟁 선언",
+    "language": "ko",
+    "detected_language": "ko",
+    "sentiment": "NEUTRAL",
+    "sentiment_scores": {
+      "Positive": 0.003607281018048525,
+      "Negative": 0.00014500757970381528,
+      "Neutral": 0.9962454438209534,
+      "Mixed": 2.2053586690162774e-06
+    },
+    "entities": [
+      {
+        "text": "현대차",
+        "type": "ORGANIZATION",
+        "score": 0.987
+      },
+      {
+        "text": "테슬라",
+        "type": "COMMERCIAL_ITEM",
+        "score": 0.937
+      }
+    ],
+    "key_phrases": [
+      "현대차,",
+      "전기차 신모델 출시",
+      "테슬라와",
+      "본격 경쟁 선언"
+    ]
+  },
+  {
+    "text": "코스피 3,000선 돌파, 외국인 투자자 대규모 순매수",
+    "language": "ko",
+    "detected_language": "ko",
+    "sentiment": "NEUTRAL",
+    "sentiment_scores": {
+      "Positive": 0.013193182647228241,
+      "Negative": 0.0008046546136029065,
+      "Neutral": 0.9859991669654846,
+      "Mixed": 2.897489821407362e-06
+    },
+    "entities": [
+      {
+        "text": "코스피",
+        "type": "ORGANIZATION",
+        "score": 0.951
+      },
+      {
+        "text": "3,000선",
+        "type": "QUANTITY",
+        "score": 0.983
+      }
+    ],
+    "key_phrases": [
+      "코스피 3,000선 돌파",
+      "외국인 투자자 대규모 순매수"
+    ]
+  },
+  {
+    "text": "BTS 월드투어 티켓 매진, 팬들 아쉬움 토로",
+    "language": "ko",
+    "detected_language": "ko",
+    "sentiment": "NEUTRAL",
+    "sentiment_scores": {
+      "Positive": 0.06143656000494957,
+      "Negative": 0.002271005418151617,
+      "Neutral": 0.9362446665763855,
+      "Mixed": 4.781294774147682e-05
+    },
+    "entities": [
+      {
+        "text": "BTS",
+        "type": "ORGANIZATION",
+        "score": 0.993
+      },
+      {
+        "text": "월드투어",
+        "type": "EVENT",
+        "score": 0.576
+      }
+    ],
+    "key_phrases": [
+      "BTS 월드투어 티켓 매진",
+      "팬들",
+      "아쉬움"
+    ]
+  },
+  {
+    "text": "기상청, 이번 주말 전국 폭설 예보",
+    "language": "ko",
+    "detected_language": "ko",
+    "sentiment": "NEUTRAL",
+    "sentiment_scores": {
+      "Positive": 0.0012890395009890199,
+      "Negative": 0.0034854772966355085,
+      "Neutral": 0.9952219128608704,
+      "Mixed": 3.5862251479557017e-06
+    },
+    "entities": [
+      {
+        "text": "기상청",
+        "type": "ORGANIZATION",
+        "score": 0.98
+      },
+      {
+        "text": "이번 주말",
+        "type": "DATE",
+        "score": 0.991
+      }
+    ],
+    "key_phrases": [
+      "기상청",
+      "이번 주말 전국 폭설 예보"
+    ]
+  }
+]
