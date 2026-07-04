@@ -1,0 +1,37 @@
+{
+  "summary": {
+    "INVOICE_RECEIPT_ID": "35678-9",
+    "TOTAL": "2100.00"
+  },
+  "line_items": [
+    {
+      "ITEM": "Furniture (Desks and\nChairs)",
+      "OTHER": "Merchant One",
+      "PRICE": "1500.00",
+      "EXPENSE_ROW": "Furniture (Desks and Office Supplies 5/10/1019 Merchant One 1500.00\nChairs)"
+    },
+    {
+      "ITEM": "Team Lunch",
+      "OTHER": "Merchant Two",
+      "PRICE": "100.00",
+      "EXPENSE_ROW": "Team Lunch Food 5/11/2019 Merchant Two 100.00"
+    },
+    {
+      "ITEM": "Team Dinner",
+      "OTHER": "Merchant Three",
+      "PRICE": "300.00",
+      "EXPENSE_ROW": "Team Dinner Food 5/12/2019 Merchant Three 300.00"
+    },
+    {
+      "ITEM": "Laptop",
+      "OTHER": "Merchant Three",
+      "PRICE": "200.00",
+      "EXPENSE_ROW": "Laptop Office Supplies 5/13/2019 Merchant Three 200.00"
+    }
+  ],
+  "validation": {
+    "items_total": 2100.0,
+    "subtotal": null,
+    "total": 2100.0
+  }
+}
