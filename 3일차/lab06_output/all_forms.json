@@ -1,0 +1,10 @@
+{
+  "1": {
+    "Maintain compliance in document archives": "Because Amazon Textract identifies data types and form labels automatically, it's easy to maintain compliance with information controls. For example, an insurer could use Amazon Textract to feed",
+    "Build automated document processing workflows": "Amazon Textract can provide the inputs required to automatically process forms without human intervention. For example, a bank could write code to read PDFs of loan applications. The information contained in the document could be used to initiate all of the necessary background and credit checks to approve the loan so that customers can get instant results of their application rather than having to wait several days for manual review and validation.",
+    "Create smart search indexes": "Extract structured data from documents and create a smart index using Amazon Elasticsearch Service to allow you to search through millions of financial statements quickly. For example, a mortgage company could use Amazon Textract to process millions of scanned loan applications in a matter of hours and have the extracted data indexed in Amazon Elasticsearch. This would allow them to create search experiences like \"search for loan applications where applicant name is John Doe,\" or \"search contracts where the interest rate is 2 percent.\""
+  },
+  "2": {
+    "a workflow that automatically redacts personally identifiable information (PII) for their review before archiving claim forms by automatically recognizing the important key-value pairs that require protection.": ""
+  }
+}
